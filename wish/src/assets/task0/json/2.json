@@ -1,0 +1,62 @@
+[{
+	"left": "730.7px",
+	"name": "wish-input",
+	"placeholder": "注册邮箱",
+	"width": "430.2px",
+	"top": "332.3px",
+	"height": "33.45px",
+	"value": "service@xueyuan.com"
+}, {
+	"left": "879.2px",
+	"name": "wish-input",
+	"placeholder": "手机号码",
+	"width": "280.4px",
+	"top": "518.2px",
+	"height": "33.7px",
+	"value": "14725836900"
+}, {
+	"left": "730.7px",
+	"name": "wish-input",
+	"placeholder": "8个或者更多字符",
+	"width": "430.2px",
+	"top": "425.75px",
+	"height": "33.45px",
+	"value": "xueyuan2107457782"
+}, {
+	"left": "728.9px",
+	"name": "wish-input",
+	"placeholder": "请输入图片中的文字",
+	"width": "282.3px",
+	"top": "612.2px",
+	"height": "30.5px",
+	"value": "ZAWEJ"
+}, {
+	"left": "1023.7px",
+	"name": "wish-button",
+	"width": "143.75px",
+	"submit": false,
+	"height": "48.7px",
+	"top": "696.5px",
+	"event": "SendCode"
+}, {
+	"left": "727px",
+	"name": "wish-button",
+	"width": "432.85px",
+	"submit": true,
+	"height": "48.8px",
+	"top": "810.05px"
+}, {
+	"height": "19px",
+	"left": "723.95px",
+	"top": "767.4px",
+	"name": "wish-checkbox",
+	"width": "256px"
+}, {
+	"left": "728.2px",
+	"name": "wish-input",
+	"placeholder": "验证码",
+	"width": "281.15px",
+	"top": "705.05px",
+	"height": "30.5px",
+	"value": "1711"
+}]

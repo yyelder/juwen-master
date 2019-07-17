@@ -1,0 +1,40 @@
+[{
+	"left": "712.25px",
+	"name": "wish-input",
+	"placeholder": "可接受:Men's Dress Casual Shirt Navy",
+	"width": "663px",
+	"top": "309.8px",
+	"height": "21.85px",
+	"value":"Baby Snap Striped Long Sleeve Onesie Organic Color Cotton Bodysuit"
+}, {
+	"left": "712.9px",
+	"name": "wish-input",
+	"placeholder": "可接受:This dress shirt is %100 cotton and fits true to size",
+	"width": "662.6px",
+	"top": "354.75px",
+	"height": "100.4px",
+	"value":"Height 80, Apricot Animal"
+}, {
+	"left": "713.05px",
+	"name": "wish-input",
+	"placeholder": "可接受Shirt,Men's,Fashion,Navy,Blue,Casual,Apparel",
+	"width": "661.95px",
+	"top": "479.9px",
+	"height": "21.85px",
+	"value":"Baby 、Snap、Striped、Long Sleeve、Onesie、Organic、Color Cotton、Bodysuit、Apricot、Animal"
+}, {
+	"left": "712.9px",
+	"name": "wish-input",
+	"placeholder": "可接受:HSC0424PP",
+	"width": "662.6px",
+	"top": "524.35px",
+	"height": "21.85px",
+	"value":"6219599412161-80"
+}, {
+	"left": "810.25px",
+	"name": "wish-button",
+	"width": "294.05px",
+	"top": "583.15px",
+	"height": "44.4px",
+	"submit": true
+}]

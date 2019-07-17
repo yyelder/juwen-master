@@ -1,0 +1,17 @@
+[{
+	"top": "307.45px",
+	"name": "wish-list",
+	"width": "447px",
+	"items": ["AliPay", "PayPal China", "pingPong金融", "联动优势(UMPAY)-直达中国对公账户", "联动优势(UMPAY)-直达中国个人账户", "派安盈(Payoneer)",
+		"易联支付(PayEco)"
+	],
+	"height": "40px",
+	"left": "732.65px"
+}, {
+	"top": "454.8px",
+	"name": "wish-button",
+	"width": "262.8px",
+	"height": "50px",
+	"left": "819.8px",
+	"submit": true
+}]

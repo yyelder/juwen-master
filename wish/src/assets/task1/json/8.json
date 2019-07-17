@@ -1,0 +1,21 @@
+[{
+	"top": "299.95px",
+	"submit": false,
+	"height": "44px",
+	"width": "105.05px",
+	"name": "wish-button",
+	"left": "741.4px"
+}, {
+	"top": "697.9px",
+	"height": "22px",
+	"width": "65px",
+	"name": "wish-checkbox",
+	"left": "780.45px"
+}, {
+	"top": "796.9px",
+	"submit": true,
+	"height": "47px",
+	"width": "292.5px",
+	"name": "wish-button",
+	"left": "810.05px"
+}]

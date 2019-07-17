@@ -1,0 +1,24 @@
+[{
+	"left": "725px",
+	"name": "wish-input",
+	"width": "440.6px",
+	"placeholder": "请填写与法人省份证号对应的法人姓名",
+	"height": "34.6px",
+	"top": "387.25px",
+	"value":"学苑"
+}, {
+	"left": "725px",
+	"name": "wish-input",
+	"width": "440.6px",
+	"placeholder": "示例:330303198810100001",
+	"height": "34.6px",
+	"top": "482.6px",
+	"value":"310227197011113579"
+}, {
+	"left": "832.25px",
+	"name": "wish-button",
+	"width": "222.2px",
+	"top": "545.85px",
+	"height": "52.15px",
+	"submit": true
+}]

@@ -1,0 +1,30 @@
+[{
+	"left": "728.6px",
+	"name": "wish-input",
+	"width": "430.9px",
+	"placeholder": "请填写您营业执照上显示的公司名称",
+	"height": "33px",
+	"top": "371.95px",
+	"value":"学苑贸易电子商务有限公司"
+}, {
+	"left": "728.6px",
+	"name": "wish-input",
+	"width": "430.9px",
+	"placeholder": "示例:110108001445941",
+	"height": "33px",
+	"top": "465.45px",
+	"value":"91310000MA1K47C256"
+}, {
+	"left": "947.7px",
+	"name": "wish-button",
+	"width": "220.8px",
+	"top": "946.95px",
+	"height": "50px",
+	"submit": true
+}, {
+	"left": "725.6px",
+	"name": "wish-upload",
+	"height": "313.95px",
+	"width": "212.4px",
+	"top": "610.55px"
+}]

@@ -1,0 +1,45 @@
+[{
+	"left": "708.8px",
+	"name": "wish-input",
+	"width": "665.7px",
+	"top": "355.5px",
+	"height": "21.95px",
+	"placeholder": "可接受:100.99(USD Value)",
+	"value":"9.99"
+}, {
+	"left": "708.8px",
+	"name": "wish-input",
+	"width": "665.7px",
+	"top": "490px",
+	"height": "21.95px",
+	"placeholder": "可接受:1200",
+	"value":"4.99"
+}, {
+	"left": "708.8px",
+	"name": "wish-input",
+	"width": "665.7px",
+	"top": "444.45px",
+	"height": "21.95px",
+	"placeholder": "可接受:4.00(USD Value)",
+	"value":"100"
+}, {
+	"left": "709.8px",
+	"name": "wish-checkbox",
+	"height": "24.2px",
+	"width": "67px",
+	"top": "645.85px"
+}, {
+	"left": "532px",
+	"name": "wish-button",
+	"width": "176.75px",
+	"top": "759.75px",
+	"submit": false,
+	"height": "21.1px"
+}, {
+	"left": "1210px",
+	"name": "wish-button",
+	"width": "69.8px",
+	"top": "791.1px",
+	"submit": true,
+	"height": "26.35px"
+}]

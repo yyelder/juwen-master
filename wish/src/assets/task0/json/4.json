@@ -1,0 +1,38 @@
+[{
+	"height": "65.65px",
+	"width": "696.95px",
+	"name": "wish-checkbox",
+	"left": "625.55px",
+	"top": "352.55px"
+}, {
+	"height": "45px",
+	"width": "696.95px",
+	"name": "wish-checkbox",
+	"left": "625.55px",
+	"top": "437.7px"
+}, {
+	"height": "128px",
+	"width": "696.95px",
+	"name": "wish-checkbox",
+	"left": "625.55px",
+	"top": "504px"
+}, {
+	"height": "65.65px",
+	"width": "696.95px",
+	"name": "wish-checkbox",
+	"left": "625.55px",
+	"top": "634.55px"
+}, {
+	"height": "20px",
+	"width": "696.95px",
+	"name": "wish-checkbox",
+	"left": "625.55px",
+	"top": "722.15px"
+}, {
+	"height": "50px",
+	"name": "wish-button",
+	"top": "793.85px",
+	"submit": true,
+	"width": "211px",
+	"left": "1106.7px"
+}]

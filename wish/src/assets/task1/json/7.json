@@ -1,0 +1,22 @@
+[{
+	"width": "66.45px",
+	"name": "wish-button",
+	"top": "490.7px",
+	"submit": false,
+	"left": "1134.75px",
+	"height": "36.85px"
+}, {
+	"width": "588.45px",
+	"left": "541.4px",
+	"name": "wish-input",
+	"height": "24.1px",
+	"top": "498.95px",
+	"value":"Apricot"
+}, {
+	"width": "292.2px",
+	"name": "wish-button",
+	"top": "586.3px",
+	"submit": true,
+	"left": "807.75px",
+	"height": "38.9px"
+}]

@@ -1,0 +1,120 @@
+[{
+	"name": "wish-input",
+	"width": "662px",
+	"left": "718.95px",
+	"height": "22.5px",
+	"placeholder": "可接受:Repair Tools kit Set",
+	"top": "311.4px",
+	"value":"Baby Long Sleeve Onesie"
+}, {
+	"name": "wish-input",
+	"width": "662px",
+	"left": "718.95px",
+	"height": "22.5px",
+	"placeholder": "可接受:YES",
+	"top": "893.85px",
+	"value":"NO"
+}, {
+	"name": "wish-input",
+	"width": "662px",
+	"left": "718.95px",
+	"height": "22.5px",
+	"placeholder": "可接受:YES",
+	"top": "848.3px",
+	"value":"NO"
+}, {
+	"name": "wish-input",
+	"width": "662px",
+	"left": "718.95px",
+	"height": "22.5px",
+	"placeholder": "可接受:YES",
+	"top": "803.85px",
+	"value":"NO"
+}, {
+	"name": "wish-input",
+	"width": "662px",
+	"left": "718.95px",
+	"height": "22.5px",
+	"placeholder": "可接受:YES",
+	"top": "759.35px",
+	"value":"NO"
+}, {
+	"name": "wish-input",
+	"width": "662px",
+	"left": "718.95px",
+	"height": "22.5px",
+	"placeholder": "可接受:$100.99",
+	"top": "714.9px",
+	"value":"8"
+}, {
+	"name": "wish-input",
+	"width": "662px",
+	"left": "718.95px",
+	"height": "22.5px",
+	"placeholder": "可接受:33021010.00",
+	"top": "669.35px",
+	"value":"6304.92"
+}, {
+	"name": "wish-input",
+	"width": "662px",
+	"left": "718.95px",
+	"height": "22.5px",
+	"placeholder": "可接受:CN",
+	"top": "624.85px",
+	"value":"CN"
+}, {
+	"name": "wish-input",
+	"width": "662px",
+	"left": "718.95px",
+	"height": "22.5px",
+	"placeholder": "可接受:151.5",
+	"top": "579.3px",
+	"value":"500"
+}, {
+	"name": "wish-input",
+	"width": "662px",
+	"left": "718.95px",
+	"height": "22.5px",
+	"placeholder": "可接受:13.40",
+	"top": "534.8px",
+	"value":"5"
+}, {
+	"name": "wish-input",
+	"width": "662px",
+	"left": "718.95px",
+	"height": "22.5px",
+	"placeholder": "可接受:13.40",
+	"top": "490.35px",
+	"value":"10"
+}, {
+	"name": "wish-input",
+	"width": "662px",
+	"left": "718.95px",
+	"height": "22.5px",
+	"placeholder": "可接受:10",
+	"top": "445.9px",
+	"value":"15"
+}, {
+	"name": "wish-input",
+	"width": "662px",
+	"left": "718.95px",
+	"height": "22.5px",
+	"placeholder": "可接受:2",
+	"top": "400.35px",
+	"value":"5"
+}, {
+	"name": "wish-input",
+	"width": "662px",
+	"left": "718.95px",
+	"height": "22.5px",
+	"placeholder": "可接受:棉质外套",
+	"top": "355.85px",
+	"value":"婴儿长袖连体衣"
+}, {
+	"name": "wish-button",
+	"width": "285.05px",
+	"left": "817.1px",
+	"height": "44.4px",
+	"submit": true,
+	"top": "957.8px"
+}]

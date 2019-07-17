@@ -1,0 +1,58 @@
+[{
+	"top": "303px",
+	"height": "52px",
+	"left": "738.55px",
+	"name": "wish-list",
+	"width": "430px",
+		"items": ["AliPay", "PayPal China", "pingPong金融", "联动优势(UMPAY)-直达中国对公账户", "联动优势(UMPAY)-直达中国个人账户", "派安盈(Payoneer)",
+		"易联支付(PayEco)"
+	],
+	"value": "易联支付(PayEco)"
+}, {
+	"height": "41px",
+	"top": "399.95px",
+	"left": "750.45px",
+	"name": "wish-input",
+	"placeholder": "示例北京市",
+	"width": "409.95px",
+	"value": "上海市"
+}, {
+	"height": "41px",
+	"top": "491.4px",
+	"left": "750.45px",
+	"name": "wish-input",
+	"placeholder": "示例中国工商银行",
+	"width": "409.95px",
+	"value": "中国银行"
+}, {
+	"height": "41px",
+	"top": "582.9px",
+	"left": "750.45px",
+	"name": "wish-input",
+	"placeholder": "示例北京百荣世贸支行",
+	"width": "409.95px",
+	"value": "中国银行上海自由贸易试验区分行"
+}, {
+	"height": "41px",
+	"top": "673.9px",
+	"left": "750.45px",
+	"name": "wish-input",
+	"placeholder": "示例张伟",
+	"width": "409.95px",
+	"value": "学苑贸易电子商务有限公司"
+}, {
+	"height": "41px",
+	"top": "764.9px",
+	"left": "750.45px",
+	"name": "wish-input",
+	"placeholder": "示例0123456789",
+	"width": "409.95px",
+	"value": "444266581710"
+}, {
+	"top": "825.9px",
+	"height": "57px",
+	"submit": true,
+	"left": "821.05px",
+	"name": "wish-button",
+	"width": "266.35px"
+}]

@@ -1,0 +1,56 @@
+[{
+	"left": "732.9px",
+	"name": "wish-input",
+	"placeholder": "不能包含wish字样",
+	"width": "423.6px",
+	"top": "371.9px",
+	"height": "32.95px",
+	"value": "XueyuanTrade"
+}, {
+	"left": "732.9px",
+	"name": "wish-input",
+	"placeholder": "姓氏",
+	"width": "202.9px",
+	"top": "465.95px",
+	"height": "32.1px",
+	"value": "学"
+}, {
+	"left": "958.85px",
+	"name": "wish-input",
+	"placeholder": "名字",
+	"width": "197.65px",
+	"top": "467.05px",
+	"height": "31px",
+	"value": "苑"
+}, {
+	"left": "725px",
+	"name": "wish-list",
+	"width": "440px",
+	"top": "555px",
+	"items": ["中国大陆", "中国香港", "中国澳门", "中国台湾"],
+	"height": "40px",
+	"value": "中国大陆"
+}, {
+	"left": "732.75px",
+	"name": "wish-input",
+	"placeholder": "街道地址",
+	"width": "423.7px",
+	"top": "655.9px",
+	"height": "34px",
+	"value": "上海市人民路1710号"
+}, {
+	"left": "732.9px",
+	"name": "wish-input",
+	"placeholder": "邮编",
+	"width": "423.7px",
+	"top": "748.9px",
+	"height": "34px",
+	"value": "200001"
+},{
+	"left": "879.35px",
+	"name": "wish-button",
+	"width": "131.05px",
+	"submit": true,
+	"height": "46.95px",
+	"top": "825.9px"
+}]

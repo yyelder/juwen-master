@@ -1,0 +1,24 @@
+[{
+	"name": "wish-input",
+	"height": "22px",
+	"top": "362.95px",
+	"placeholder": "可接受:Nike",
+	"width": "665.05px",
+	"left": "711.3px",
+	"value":"Jane Chen's"
+}, {
+	"name": "wish-input",
+	"height": "22px",
+	"top": "451.95px",
+	"placeholder": "可接受:100",
+	"width": "665.05px",
+	"left": "711.3px",
+	"value":"50"
+}, {
+	"height": "50px",
+	"name": "wish-button",
+	"submit": true,
+	"top": "561.9px",
+	"width": "286.45px",
+	"left": "809px"
+}]

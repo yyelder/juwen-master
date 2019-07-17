@@ -1,0 +1,134 @@
+[{
+	"left": "316.3px",
+	"top": "219.5px",
+	"height": "50px",
+	"name": "wish-button",
+	"width": "225.6px",
+	"submit": false
+}, {
+	"left": "450.55px",
+	"top": "469.35px",
+	"height": "30px",
+	"name": "wish-list",
+	"items": ["使用产品配送费", "使用国家配送费"],
+	"width": "205.9px"
+}, {
+	"left": "450.55px",
+	"top": "509.4px",
+	"height": "30px",
+	"name": "wish-list",
+	"items": ["使用产品配送费", "使用国家配送费"],
+	"width": "205.9px"
+}, {
+	"left": "450.55px",
+	"top": "550.5px",
+	"height": "30px",
+	"name": "wish-list",
+	"items": ["使用产品配送费", "使用国家配送费"],
+	"width": "205.9px"
+}, {
+	"left": "450.55px",
+	"top": "950.65px",
+	"height": "30px",
+	"name": "wish-list",
+	"items": ["使用产品配送费", "使用国家配送费"],
+	"width": "205.9px"
+}, {
+	"left": "450.55px",
+	"top": "710.55px",
+	"height": "30px",
+	"name": "wish-list",
+	"items": ["使用产品配送费", "使用国家配送费"],
+	"width": "205.9px"
+}, {
+	"left": "450.55px",
+	"top": "670.55px",
+	"height": "30px",
+	"name": "wish-list",
+	"items": ["使用产品配送费", "使用国家配送费"],
+	"width": "205.9px"
+}, {
+	"left": "450.55px",
+	"top": "630.55px",
+	"height": "30px",
+	"name": "wish-list",
+	"items": ["使用产品配送费", "使用国家配送费"],
+	"width": "205.9px"
+}, {
+	"left": "450.55px",
+	"top": "589.45px",
+	"height": "30px",
+	"name": "wish-list",
+	"items": ["使用产品配送费", "使用国家配送费"],
+	"width": "205.9px"
+}, {
+	"left": "450.55px",
+	"top": "870.6px",
+	"height": "30px",
+	"name": "wish-list",
+	"items": ["使用产品配送费", "使用国家配送费"],
+	"width": "205.9px"
+}, {
+	"left": "450.55px",
+	"top": "831.7px",
+	"height": "30px",
+	"name": "wish-list",
+	"items": ["使用产品配送费", "使用国家配送费"],
+	"width": "205.9px"
+}, {
+	"left": "450.55px",
+	"top": "789.45px",
+	"height": "30px",
+	"name": "wish-list",
+	"items": ["使用产品配送费", "使用国家配送费"],
+	"width": "205.9px"
+}, {
+	"left": "450.55px",
+	"top": "749.45px",
+	"height": "30px",
+	"name": "wish-list",
+	"items": ["使用产品配送费", "使用国家配送费"],
+	"width": "205.9px"
+}, {
+	"left": "450.55px",
+	"top": "1030.65px",
+	"height": "30px",
+	"name": "wish-list",
+	"items": ["使用产品配送费", "使用国家配送费"],
+	"width": "205.9px"
+}, {
+	"left": "450.55px",
+	"top": "989.55px",
+	"height": "30px",
+	"name": "wish-list",
+	"items": ["使用产品配送费", "使用国家配送费"],
+	"width": "205.9px"
+}, {
+	"left": "450.55px",
+	"top": "909.5px",
+	"height": "30px",
+	"name": "wish-list",
+	"items": ["使用产品配送费", "使用国家配送费"],
+	"width": "205.9px"
+}, {
+	"left": "189.65px",
+	"top": "287.45px",
+	"height": "27.8px",
+	"name": "wish-button",
+	"width": "205.5px",
+	"submit": false
+}, {
+	"left": "847.9px",
+	"top": "1233.05px",
+	"height": "35.7px",
+	"name": "wish-button",
+	"width": "215.35px",
+	"submit": false
+}, {
+	"left": "342.7px",
+	"top": "1228.75px",
+	"height": "40.2px",
+	"name": "wish-button",
+	"width": "283.75px",
+	"submit": true
+}]

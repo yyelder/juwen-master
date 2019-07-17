@@ -1,0 +1,32 @@
+[{
+	"placeholder": "可接受:HSC0424PP",
+	"top": "378px",
+	"width": "170.95px",
+	"left": "734.5px",
+	"height": "24px",
+	"name": "wish-input",
+	"value":"FBAYG0202"
+}, {
+	"top": "457px",
+	"submit": true,
+	"width": "284.9px",
+	"left": "831.55px",
+	"height": "50px",
+	"name": "wish-button"
+}, {
+	"placeholder": "可接受:",
+	"top": "377.95px",
+	"width": "59px",
+	"left": "971.45px",
+	"height": "24.1px",
+	"name": "wish-input",
+	"value":"9.99"
+}, {
+	"placeholder": "可接受:",
+	"top": "377.95px",
+	"width": "59px",
+	"left": "1094.45px",
+	"height": "24.1px",
+	"name": "wish-input",
+	"value":"100"
+}]
