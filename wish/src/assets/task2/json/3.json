@@ -1,0 +1,15 @@
+[{
+	"submit": false,
+	"left": "260.6px",
+	"top": "335.95px",
+	"width": "88.95px",
+	"height": "30px",
+	"name": "wish-button"
+}, {
+	"submit": true,
+	"left": "816.9px",
+	"top": "578.95px",
+	"width": "288.6px",
+	"height": "44px",
+	"name": "wish-button"
+}]

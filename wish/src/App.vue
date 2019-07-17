@@ -5,7 +5,7 @@
 </template>
 
 <script>
-	import WishTask1 from './views/Task1.vue'
+	import WishTask1 from './views/Task2.vue'
 	//left='100px' top='200px' width='100px' height='200px' value='第一条' :items="['第一条', '第二条']"
 	export default {
 		name: 'app',

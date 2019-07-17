@@ -1,7 +1,7 @@
 <template>
 	<div ref='root' class="wish-task">
-		<wish-page :ref="'page'+index" v-for="index in 10" :key="index" :index="index" :background='require("../assets/task1/background/" + index + ".jpg")'
-		 :items="require('../assets/task1/json/' + index + '.json')" @submit="submitHandler(index)" msg="填写错误" @SendCode="sendCodeHandler(index)">
+		<wish-page :ref="'page'+index" v-for="index in 5" :key="index" :index="index" :background='require("../assets/task2/background/" + index + ".jpg")'
+		 :items="require('../assets/task2/json/' + index + '.json')" @submit="submitHandler(index)" msg="填写错误" @SendCode="sendCodeHandler(index)">
 		</wish-page>
 		<button style="left: 100px" @click="prev">上一页</button>
 		<button style="left: 220px" ref="page-index">当前页：0</button>
@@ -13,7 +13,7 @@
 	import WishPage from '../views/Page.vue'
 
 	export default {
-		name: 'wish-task1',
+		name: 'wish-task2',
 		components: {
 			WishPage
 		},
@@ -25,7 +25,7 @@
 		methods: {
 			// 跳转页面（关闭当前，并打开新页面）
 			to(index) {
-				if (index < 1 || index > 10)
+				if (index < 1 || index > 5)
 					return;
 				console.log("try to page" + index + "!")
 				if (this.page(this.current))
